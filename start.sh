@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo "Removendo configurações anteriores"
 
 rm -vfr /publico
